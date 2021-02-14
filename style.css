@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image: url("bg1.jpg");
+        background-position: center;
+        background-size: cover;
+    }
+    
+    #myCanvas{
+        background-color:white;
+        border-width:10px;
+        border-style:ridge;}
+    #color{
+    margin-right:20px;
+    }
+    #clear_btn{
+    width:200px;
+    }
+    #width{
+        margin-right:20px;
+        }
